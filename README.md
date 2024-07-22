@@ -18,7 +18,7 @@
 
  👨‍💻 All of my projects are available at <a href="https://github.com/CyberHunter8857">GitHub</a>
 
- 📫 How to reach me <a href="mayurtamanke9423@gmail.com">mayurtamanke9423@gmail.com</a>
+ 📫 How to reach me <a href="mailto:mayurtamanke9423@gmail.com">mayurtamanke9423@gmail.com</a>
 
  📄 About myself: I'm Mayur Tamanke, a dedicated Electronics and Telecommunication engineering student with a relentless love for coding and development. I believe that the world of technology is a canvas, and programming is my way of painting it with innovative solutions.
 
