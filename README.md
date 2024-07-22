@@ -25,7 +25,7 @@
  ⚡ Fun Fact I like Playing Games like Valorant, BGMI and creates new stuffs
 
  </div>
- 
+ <h3 align="center">Connect with me:</h3>
 <div align="center"> 
   <a href="mayurtamanke9423@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -36,6 +36,9 @@
   <a href="https://www.instagram.com/mayurtamanke/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   <a href="#" target="_blank">
+  <a href="https://x.com/mayurtamanke" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(x)-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
+  <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -45,8 +48,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp" /><br>
 </div>
 
 <br/>
