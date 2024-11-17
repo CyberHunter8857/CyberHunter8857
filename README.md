@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning Full Stack Developement
 
- 👯 Language/OS I know PYTHON, JAVASCRIPT, HTML-CSS, C, C++, Linux
+ 👯 Language/OS I know PYTHON, JAVASCRIPT, HTML-CSS, C, C++, Windows, Linux
 
  👨‍💻 All of my projects are available at <a href="https://github.com/CyberHunter8857">GitHub</a>
 
