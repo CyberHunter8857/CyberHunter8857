@@ -24,9 +24,9 @@ jobs:
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: stats
-          options: "username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+          options: "username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true"
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       # ---------- Top Languages ----------
       - name: Generate top languages card
@@ -35,14 +35,14 @@ jobs:
           card: top-langs
           options: "username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true"
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       # ---------- Streak Stats ----------
       - name: Generate streak stats
         uses: be-next/github-streak-stats-action@v1
         with:
           username: ${{ github.repository_owner }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
           output-path: profile/streak.svg
           theme: tokyonight
           hide-border: true
