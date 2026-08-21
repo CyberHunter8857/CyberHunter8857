@@ -48,13 +48,15 @@ jobs:
           hide-border: true
 
       # ---------- Trophies ----------
+      # Uses a Personal Access Token (repo secret: TROPHY_TOKEN) instead of GITHUB_TOKEN,
+      # because the trophy script needs read:user scope that GITHUB_TOKEN doesn't have.
       - name: Generate trophy card
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
           file: profile/trophy.svg
           theme: tokyonight
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       # ---------- Commit the generated cards ----------
       - name: Commit and push cards
